@@ -1,4 +1,4 @@
-# Makine Öğernmesi :
+# Makine Öğrenmesi :
 
 makine öğrenmesi aslında bilgisayarla bir şekilde iletişim kurup verileri göstererek bu veriler arasında anlamlı bir ilişki kurmasını ve buna yönelik çıkarımlar yapabilmesini beklemektir
 
